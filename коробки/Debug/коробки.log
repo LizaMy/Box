@@ -1,0 +1,45 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (коробки.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Box.cpp
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2433: ConteinerSpase::ostream: "friend" не разрешается для объявлений данных
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2238: непредвиденные лексемы перед ";"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2086: int ConteinerSpase::ostream: переопределение
+  c:\users\лиза\source\repos\коробки\коробки\box.h(42): note:  см. объявление "ConteinerSpase::ostream"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2065: out: необъявленный идентификатор
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2059: синтаксическая ошибка: const
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Container.cpp
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2433: ConteinerSpase::ostream: "friend" не разрешается для объявлений данных
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2238: непредвиденные лексемы перед ";"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2086: int ConteinerSpase::ostream: переопределение
+  c:\users\лиза\source\repos\коробки\коробки\box.h(42): note:  см. объявление "ConteinerSpase::ostream"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2065: out: необъявленный идентификатор
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2059: синтаксическая ошибка: const
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\лиза\source\repos\коробки\коробки\container.cpp(52): error C2872: ostream: неоднозначный символ
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iosfwd(618): note: может быть "std::basic_ostream<char,std::char_traits<char>> std::ostream"
+  c:\users\лиза\source\repos\коробки\коробки\box.h(42): note: или       "int ConteinerSpase::ostream"
+c:\users\лиза\source\repos\коробки\коробки\container.cpp(66): warning C4018: >: несоответствие типов со знаком и без знака
+  Main.cpp
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2433: ConteinerSpase::ostream: "friend" не разрешается для объявлений данных
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\лиза\source\repos\коробки\коробки\box.h(42): error C2238: непредвиденные лексемы перед ";"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2086: int ConteinerSpase::ostream: переопределение
+  c:\users\лиза\source\repos\коробки\коробки\box.h(42): note:  см. объявление "ConteinerSpase::ostream"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2065: out: необъявленный идентификатор
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2059: синтаксическая ошибка: const
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\лиза\source\repos\коробки\коробки\box.h(48): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Создание кода...
